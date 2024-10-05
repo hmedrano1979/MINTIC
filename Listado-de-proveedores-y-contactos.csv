@@ -1,4 +1,4 @@
-﻿ID;Proveedor;Contacto comercial;Email;Teléfono;Saldo pendiente en dólares;Fecha de última compra;
+﻿ID;Proveedor;Contacto_comercial;Email;Teléfono;Saldo pendiente en dólares;Fecha de última compra;
 P0001;So Factive;Lorenzo Cantón Galan;fluffy@verizon.net;(394) 406-8708;63;4/09/2018;
 P0002;Kontroller;Adelina Valls Canet;fraterk@me.com;(923) 207-3871;4250;8/06/2012;
 P0003;Finance Api;Eulalia del Galindo;animats@mac.com;(904) 363-2261;-2412;6/08/2017;
